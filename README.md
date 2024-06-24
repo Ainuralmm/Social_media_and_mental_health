@@ -23,12 +23,15 @@ _Treating Missing Values_: Applying appropriate techniques to handle missing dat
 _Transforming Data_: Implementing transformations to normalize or standardize data, as required for analysis.
 
 **4.Summation of Scores**
+
 _Aggregating Scores_: Calculating the total scores for different aspects of mental well-being.
 
 **5.Adding an "Outcome" Column**
+
 _Outcome Labeling_: Creating an "Outcome" column to prepare the data for correlation analysis and predictive modeling.
 
 **6.Analysis and Modeling**
+
 _Correlation Analysis_: Preparing the data for correlation analysis to identify significant relationships.
 _Logistic Regression_: Implementing logistic regression for binary classification tasks.
 
