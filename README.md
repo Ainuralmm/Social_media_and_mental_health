@@ -1,7 +1,7 @@
-Project Description
 This repository contains the code and resources for the "Social Media and Mental Health" research project conducted for the Social Research exam (2023/2024). The project involves analyzing the impact of social media usage on mental well-being through various data preprocessing, transformation, and modeling techniques.
 
 Contents
+
 The repository is structured as follows:
 
 Data Pre-processing and Cleaning
