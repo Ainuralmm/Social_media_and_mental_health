@@ -11,11 +11,13 @@ The repository is structured as follows:
 **1.Data Pre-processing and Cleaning**
 
 _Renaming Columns_: Standardizing column names for consistency and readability.
+
 _Re-arranging Columns_: Organizing columns in a logical order to facilitate analysis.
 
 **2.Missing Value Detection and Treatment**
 
 _Identifying Missing Values_: Systematically detecting missing data points.
+
 _Treating Missing Values_: Applying appropriate techniques to handle missing data, such as imputation or removal.
 
 **3.Data Transformation**
@@ -33,7 +35,9 @@ _Outcome Labeling_: Creating an "Outcome" column to prepare the data for correla
 **6.Analysis and Modeling**
 
 _Correlation Analysis_: Preparing the data for correlation analysis to identify significant relationships.
+
 _Logistic Regression_: Implementing logistic regression for binary classification tasks.
 
 **Data Source**
+
 The dataset used in this project is sourced from Kaggle: [Social Media and Mental Health.](https://www.kaggle.com/datasets/souvikahmed071/social-media-and-mental-health/data)
